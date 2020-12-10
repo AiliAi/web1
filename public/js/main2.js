@@ -1,5 +1,5 @@
 'use strict';
-const url = '/app/'; // change url when uploading to server
+const url = '/app'; // change url when uploading to server
 
 // select existing html elements
 const addForm = document.querySelector('#addCatForm');
