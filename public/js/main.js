@@ -1,5 +1,5 @@
 'use strict';
-const url = '10.114.34.5'; // change url when uploading to server
+const url = ''; // change url when uploading to server
 
 const ul = document.querySelector('ul');
 
